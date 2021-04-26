@@ -6,6 +6,6 @@
     <title>Kocham Wojtusia</title>
 </head>
 <body>
-    Tu coś kiedyś będzie
+    Kocham Wojtusia
 </body>
 </html>
